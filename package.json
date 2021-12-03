@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security"
-  }
+  },
+  "name": "nodebootcamp",
+  "version": "1.0.0",
+  "description": "Node Boot Camp",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkelley1689/NodeBootCamp.git"
+  },
+  "author": "Justin Kelley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkelley1689/NodeBootCamp/issues"
+  },
+  "homepage": "https://github.com/jkelley1689/NodeBootCamp#readme"
 }
