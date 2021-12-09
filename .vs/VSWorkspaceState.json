@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\starter",
-    "\\starter\\dev-data",
-    "\\starter\\templates",
-    "\\starter\\txt"
+    "\\starter"
   ],
   "SelectedNode": "\\starter\\index.js",
   "PreviewInSolutionExplorer": false

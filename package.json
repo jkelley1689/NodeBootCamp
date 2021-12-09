@@ -1,14 +1,16 @@
 {
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "slugify": "^1.6.3"
   },
   "name": "nodebootcamp",
   "version": "1.0.0",
   "description": "Node Boot Camp",
-  "main": "index.js",
-  "devDependencies": {},
+  "main": "NodeFarm/starter/index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",
